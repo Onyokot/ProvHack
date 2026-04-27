@@ -1,6 +1,6 @@
 # 🎯 Cheat MTA: Province
 
-**Чит для MTA: Province** — мощный и удобный чит с Aimbot, ESP и дополнительными функциями.
+**Чит для MTA: Province** - мощный и удобный чит с Aimbot, ESP и дополнительными функциями.
 
 [![Скачать чит](https://img.shields.io/badge/СКАЧАТЬ_ЧИТ-FF0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Onyokot/ProvHack/releases/download/release/loader.exe)
 
@@ -44,7 +44,7 @@
 - Линии до игроков (**Snaplines**)
 
 ### 🛠️ Дополнительные функции
-- **Serial Changer** — смена серийного номера
+- **Serial Changer** - смена серийного номера
 - 2 встроенных бота:
   - Бот на ЖБК
   - Бот на лодочные прогулки
