@@ -2,7 +2,7 @@
 
 **Чит для MTA: Province** - мощный и удобный чит с Aimbot, ESP и дополнительными функциями.
 
-[![Скачать чит](https://img.shields.io/badge/СКАЧАТЬ_ЧИТ-FF0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Onyokot/ProvHack/releases/latest/Ioader.exe)
+[![Скачать чит](https://img.shields.io/badge/СКАЧАТЬ_ЧИТ-FF0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Onyokot/ProvHack/releases/latest)
 
 ---
 
