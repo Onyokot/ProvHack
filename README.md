@@ -1,7 +1,7 @@
 # 🎯 Cheat MTA: Province
 
 <div align="center">
-  <img src="imgs/tab_settings.png.png" alt="MTA Province Cheat" width="800">
+  <img src="imgs/tab_settings.png" alt="MTA Province Cheat" width="800">
   
   <br><br>
   
