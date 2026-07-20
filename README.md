@@ -1,8 +1,14 @@
 # 🎯 Cheat MTA: Province
 
-**Чит для MTA: Province** - мощный и удобный чит с Aimbot, ESP и дополнительными функциями.
-
-[![Скачать чит](https://img.shields.io/badge/СКАЧАТЬ_ЧИТ-FF0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Onyokot/ProvHack/releases/latest)
+<div align="center">
+  <img src="imgs/tab_settings.png.png" alt="MTA Province Cheat" width="800">
+  
+  <br><br>
+  
+  <a href="https://github.com/Onyokot/ProvHack/releases/latest">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ ЧИТ-FF0000?style=for-the-badge&logo=download&logoColor=white" alt="Скачать чит" width="400">
+  </a>
+</div>
 
 ---
 
@@ -65,17 +71,3 @@
 ## ⚙️ Настройка
 
 Все функции имеют удобное меню с горячими клавишами.  
-Каждый параметр можно тонко настроить под свой стиль игры.
-
----
-
-## ⚠️ Предупреждение
-
-- Чит создан исключительно в ознакомительных и образовательных целях.
-- Использование читов может привести к бану аккаунта. Используйте на свой страх и риск.
-- Не распространяйте чит без разрешения автора.
-
-
----
-
-**Приятной игры!** 🔥
